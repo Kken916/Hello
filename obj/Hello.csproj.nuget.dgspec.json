@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "N:\\MSSA notes and storage\\coding\\labs\\Dis persons labs\\Hello\\Hello\\Hello.csproj": {}
+  },
+  "projects": {
+    "N:\\MSSA notes and storage\\coding\\labs\\Dis persons labs\\Hello\\Hello\\Hello.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\MSSA notes and storage\\coding\\labs\\Dis persons labs\\Hello\\Hello\\Hello.csproj",
+        "projectName": "Hello",
+        "projectPath": "N:\\MSSA notes and storage\\coding\\labs\\Dis persons labs\\Hello\\Hello\\Hello.csproj",
+        "packagesPath": "C:\\Users\\Dis Nigga\\.nuget\\packages\\",
+        "outputPath": "N:\\MSSA notes and storage\\coding\\labs\\Dis persons labs\\Hello\\Hello\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dis Nigga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.15063"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.15063": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.15063": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.10, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
